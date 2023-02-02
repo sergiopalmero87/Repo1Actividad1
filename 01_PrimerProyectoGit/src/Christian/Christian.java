@@ -1,6 +1,10 @@
 package Christian;
 
 public class Christian {
+	
+	public static void main(String[] args) {
+		System.out.println("Zumo, lentejas, patatas");
+	}
 
 	public void saludoChristian() {
 		System.out.println("Hola, soy Christian");

@@ -8,9 +8,7 @@ public class Sergio {
 		Sergio s1 = new Sergio();
 		s1.saludo();
 		s1.hobbie();
-		
-	
-	}
+}
 	
 	
 	public void saludo() {

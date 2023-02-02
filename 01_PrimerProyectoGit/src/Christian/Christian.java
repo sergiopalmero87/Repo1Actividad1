@@ -3,7 +3,7 @@ package Christian;
 public class Christian {
 	
 	public static void main(String[] args) {
-		System.out.println("Zumo, lentejas, patatas");
+		System.out.println("Zumo, lentejas, patatas fritas");
 	}
 
 	public void saludoChristian() {
